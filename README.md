@@ -1,6 +1,6 @@
 # Porfolio
 
-#### Technical Skills: C, SQL, VB.Net, Java
+#### Technical Skills:  C, SQL, VB.Net, Java
 
 ## Education
 - Bachelor of Intormation and Technology | Quezon City University (_Current_)								       		

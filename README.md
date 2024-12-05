@@ -1,5 +1,7 @@
 # Porfolio
 
+## Franc Randell J. Coton
+
 #### Technical Skills:  C, SQL, VB.Net, Java
 
 ## Education
